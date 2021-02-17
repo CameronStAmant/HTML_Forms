@@ -113,8 +113,8 @@ form {
   line-height: 55px;
 }
 
-footer section p {
-  font-size: 13px;
+footer > section p {
+  font-size: 11px;
   text-align: center;
   margin: 0;
 }
